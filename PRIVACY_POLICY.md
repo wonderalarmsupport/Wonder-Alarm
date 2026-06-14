@@ -2,7 +2,8 @@
 Privacy Policy
 
 
-This Privacy Policy applies to the Wonder Alarm mobile application and any related services operated by AlphaMu Studios (collectively, the “Application”). AlphaMu Studios is referred to as the “Service Provider”.
+This Privacy Policy applies to the Wonder Alarm mobile application and any related services operated by
+AlphaMu Studios (collectively, the “Application”). AlphaMu Studios is referred to as the “Service Provider”.
 
 
 Information Collection and Use
@@ -15,14 +16,19 @@ The Application collects certain information automatically when you download and
 * Application crash logs, non-fatal error messages and performance analytics
 * Your mobile operating system
 
-The Application does not directly collect personally identifiable information such as your name, email address, or phone number. However, it processes device-related identifiers and usage data through third-party services for analytics, advertising, and crash reporting purposes.
+The Application does not directly collect personally identifiable information such as your name, email address,
+or phone number. However, it processes device-related identifiers and usage data through third-party services for
+analytics, advertising, and crash reporting purposes.
 
 
 Cookies and Tracking Technologies
-The Application and its third-party SDKs (such as Google services) may use cookies, device identifiers, and similar technologies to provide functionality, analytics, and advertising. Where required by applicable law (such as in the European Economic Area), your consent will be obtained before using non-essential tracking technologies.
+The Application and its third-party SDKs (such as Google services) may use cookies, device identifiers, and similar
+technologies to provide functionality, analytics, and advertising. Where required by applicable law (such as in the
+European Economic Area), your consent will be obtained before using non-essential tracking technologies.
 
 Legal Basis for Processing (EEA and similar jurisdictions)
-If you are located in the European Economic Area (EEA), United Kingdom, or similar jurisdictions, the Service Provider processes your data under the following legal bases:
+If you are located in the European Economic Area (EEA), United Kingdom, or similar jurisdictions, the Service Provider
+processes your data under the following legal bases:
 
 * Your consent (for analytics and personalized advertising)
 * Legitimate interests (for app functionality, performance monitoring, and crash reporting)
@@ -31,7 +37,8 @@ You may withdraw your consent at any time.
 
 
 Third-Party Services
-The Application uses third-party services that may collect, process, and store information in accordance with their own privacy policies. These services include:
+The Application uses third-party services that may collect, process, and store information in accordance with their own
+privacy policies. These services include:
 
 * Google Play Services: https://www.google.com/policies/privacy/
 * AdMob: https://policies.google.com/technologies/partner-sites
@@ -40,11 +47,13 @@ The Application uses third-party services that may collect, process, and store i
 
 These third parties may collect data such as device identifiers, usage data, and diagnostic information.
 
-Advertising providers such as AdMob may use advertising identifiers and similar technologies to display personalized or non-personalized ads, depending on your location and consent choices (where required by law, such as in the EEA/UK).
+Advertising providers such as AdMob may use advertising identifiers and similar technologies to display personalized or
+non-personalized ads, depending on your location and consent choices (where required by law, such as in the EEA/UK).
 
 
 Data Sharing
-The Service Provider does not sell your personal data. Information may be shared with third-party service providers strictly for the following purposes:
+The Service Provider does not sell your personal data. Information may be shared with third-party service providers strictly
+for the following purposes:
 
 * Analytics and usage measurement
 * Advertising and monetization
@@ -53,7 +62,8 @@ The Service Provider does not sell your personal data. Information may be shared
 
 
 International Data Transfers
-Your information may be transferred to and processed in countries outside your country of residence, including countries that may not have the same data protection laws.
+Your information may be transferred to and processed in countries outside your country of residence, including countries
+that may not have the same data protection laws.
 
 Where required by applicable law, appropriate safeguards are used, including:
 
@@ -80,7 +90,8 @@ The Service Provider retains data only as long as necessary:
 * Diagnostic and crash data: retained as needed to improve application stability
 * Aggregated or de-identified data: may be retained for longer periods
 
-If any user-provided data is ever collected, it will be retained only for as long as necessary for its intended purpose, unless a longer retention period is required by law.
+If any user-provided data is ever collected, it will be retained only for as long as necessary for its intended purpose,
+unless a longer retention period is required by law.
 
 
 Your Rights
@@ -92,7 +103,7 @@ Depending on your location, you may have the right to:
 * Withdraw consent at any time
 * Request data portability
 
-To exercise your rights, contact: [wonderalarm.support@gmail.com](mailto:wonderalarm.support@gmail.com)
+To exercise your rights, contact: wonderalarm.support@gmail.com
 
 California Privacy Rights (CCPA/CPRA)
 If you are a California resident, you have the right to:
@@ -104,7 +115,7 @@ If you are a California resident, you have the right to:
 
 The Service Provider does not sell personal information.
 
-To exercise your rights, contact: [wonderalarm.support@gmail.com](mailto:wonderalarm.support@gmail.com)
+To exercise your rights, contact: wonderalarm.support@gmail.com
 
 
 Opt-Out
@@ -115,13 +126,19 @@ You can stop all data collection by uninstalling the Application. You can also:
 
 
 Children’s Privacy
-The Application is not intended for use by children under the age of 13, or the minimum age required by applicable law in the user’s jurisdiction. Where parental or guardian consent is required, the Application is not intended for use without such consent.
+The Application is not intended for use by children under the age of 13, or the minimum age required by applicable law
+in the user’s jurisdiction. Where parental or guardian consent is required, the Application is not intended for use
+without such consent.
 
-The Service Provider does not knowingly collect personal data from children. While the Application does not directly request personal information (such as name, email address, or phone number), certain data (such as device identifiers and usage data) may be collected automatically by third-party services (e.g., analytics, advertising, and crash reporting tools).
+The Service Provider does not knowingly collect personal data from children. While the Application does not directly
+request personal information (such as name, email address, or phone number), certain data (such as device identifiers
+and usage data) may be collected automatically by third-party services (e.g., analytics, advertising, and crash reporting tools).
 
-If the Service Provider becomes aware that a child has provided personal data, appropriate steps will be taken to delete such information as soon as possible.
+If the Service Provider becomes aware that a child has provided personal data, appropriate steps will be taken to delete
+such information as soon as possible.
 
-If you are a parent or guardian and you believe that your child has provided personal data to the Service Provider, please contact: wonderalarm.support@gmail.com, and appropriate actions will be taken.
+If you are a parent or guardian and you believe that your child has provided personal data to the Service Provider, please
+contact: wonderalarm.support@gmail.com, and appropriate actions will be taken.
 
 
 Security
@@ -133,17 +150,20 @@ In the event of a data breach affecting your personal data, the Service Provider
 
 
 Changes to This Policy
-This Privacy Policy may be updated from time to time. Updates will be posted with a revised effective date. Where required, users will be notified or asked for consent.
+This Privacy Policy may be updated from time to time. Updates will be posted with a revised effective date. Where required,
+users will be notified or asked for consent.
 
-Previous versions of this Privacy Policy will be maintained and made available upon request by contacting the Service Provider at wonderalarm.support@gmail.com.
+Previous versions of this Privacy Policy will be maintained and made available upon request by contacting the Service Provider
+at wonderalarm.support@gmail.com.
 
 
 Effective Date: 2026-06-12
 
 
 Your Consent
-Where processing is based on consent, you provide that consent by explicitly agreeing (for example, via consent prompts for analytics or ads). You may withdraw your consent at any time without affecting prior processing.
+Where processing is based on consent, you provide that consent by explicitly agreeing (for example, via consent prompts for
+analytics or ads). You may withdraw your consent at any time without affecting prior processing.
 
 
 Contact Us
-If you have any questions regarding this Privacy Policy or data practices, contact: [wonderalarm.support@gmail.com](mailto:wonderalarm.support@gmail.com)
+If you have any questions regarding this Privacy Policy or data practices, contact: wonderalarm.support@gmail.com
