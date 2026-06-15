@@ -10,8 +10,6 @@ By downloading or using the Application, you agree to these Terms and Conditions
 
 
 
-
-
 ### **License to use the Application**
 
 
