@@ -34,7 +34,7 @@ Unauthorized copying, modification of the Application, any part of the Applicati
 
 
 
-###### **Eligibility**
+### **Eligibility**
 
 
 
@@ -44,7 +44,7 @@ By accessing and using this Application, you represent that you are legally perm
 
 
 
-###### **Termination**
+### **Termination**
 
 
 
@@ -58,7 +58,7 @@ Upon termination, your right to use the Application will end and you must delete
 
 
 
-###### **Service Modifications**
+### **Service Modifications**
 
 
 
@@ -68,7 +68,7 @@ The Service Provider is dedicated to ensuring that the Application is as benefic
 
 
 
-###### **Third-Party Services**
+### **Third-Party Services**
 
 
 
@@ -98,7 +98,7 @@ These services may include advertising providers such as AdMob, which may displa
 
 
 
-###### **Data and Privacy**
+### **Data and Privacy**
 
 
 
@@ -112,7 +112,7 @@ For more details, please refer to the Privacy Policy.
 
 
 
-###### **Device and Security**
+### **Device and Security**
 
 
 
@@ -128,7 +128,7 @@ The Service Provider strongly advises against rooting or jailbreaking your devic
 
 
 
-###### **Network and Charges**
+### **Network and Charges**
 
 
 
@@ -144,7 +144,7 @@ Nothing in these Terms shall limit any rights you have under applicable consumer
 
 
 
-###### **Disclaimer of Warranties**
+### **Disclaimer of Warranties**
 
 
 
@@ -154,7 +154,7 @@ Nothing in these Terms shall limit any rights you have under applicable consumer
 
 
 
-###### **Limitation of Liability**
+### **Limitation of Liability**
 
 
 
@@ -178,7 +178,7 @@ Nothing in these Terms shall limit any rights you have under applicable consumer
 
 
 
-###### **Indemnification**
+### **Indemnification**
 
 
 
@@ -190,7 +190,7 @@ This indemnification does not apply to claims arising from the Service Provider'
 
 
 
-###### **Updates and Availability**
+### **Updates and Availability**
 
 
 
@@ -200,7 +200,7 @@ The Service Provider may wish to update the Application at some point. The Appli
 
 
 
-###### **Governing Law and Jurisdiction**
+### **Governing Law and Jurisdiction**
 
 
 
@@ -212,7 +212,7 @@ Any dispute arising out of or relating to these Terms will be brought before the
 
 
 
-###### **Severability**
+### **Severability**
 
 
 
@@ -222,7 +222,7 @@ If any provision of these Terms and Conditions is held to be invalid, illegal, o
 
 
 
-###### **Entire Agreement**
+### **Entire Agreement**
 
 
 
@@ -232,7 +232,7 @@ These Terms and Conditions, together with the Privacy Policy, constitute the ent
 
 
 
-###### **Changes to These Terms and Conditions**
+### **Changes to These Terms and Conditions**
 
 
 
@@ -244,7 +244,7 @@ Previous versions of these Terms and Conditions will be maintained and made avai
 
 
 
-###### **Contact Us**
+### **Contact Us**
 
 
 
@@ -254,7 +254,7 @@ If you have any questions or suggestions about the Terms and Conditions, please 
 
 
 
-###### **Effective date**
+### **Effective date**
 
 
 
