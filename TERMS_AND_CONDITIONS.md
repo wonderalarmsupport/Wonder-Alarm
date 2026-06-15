@@ -1,5 +1,5 @@
 ```markdown
-**Terms & Conditions**
+Terms & Conditions
 
 These Terms and Conditions apply to the Wonder Alarm app for mobile devices and any related services
 operated by AlphaMu Studios (collectively, the "Application"). AlphaMu Studios is referred to as the "Service Provider".
