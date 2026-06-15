@@ -51,6 +51,17 @@ Advertising providers such as AdMob may use advertising identifiers and similar 
 non-personalized ads, depending on your location and consent choices (where required by law, such as in the EEA/UK).
 
 
+Device Permissions Required
+To function properly as a reliable alarm clock, Wonder Alarm requires the following system permissions. We only use
+these permissions to provide the core functionality of the app, and no data from them is ever collected or transmitted:
+* **Exact Alarm (SCHEDULE_EXACT_ALARM):** Required to trigger your alarms precisely at the exact second you have set them.
+* **Notification Permission:** Required to display the active alarm status in your status bar and to trigger heads-up alerts.
+* **Battery Optimization Bypass (REQUEST_IGNORE_BATTERY_OPTIMIZATIONS):** Required to prevent the Android Operating System
+from putting the app to sleep, ensuring that your alarms will ring reliably even if the phone is in deep sleep (Doze mode).
+* **System Alert Window / Draw Over Other Apps:** Required to display the full-screen alarm dismiss interface over your
+lock screen or other running applications when an alarm goes off.
+
+
 Data Sharing
 The Service Provider does not sell your personal data. Information may be shared with third-party service providers strictly
 for the following purposes:
