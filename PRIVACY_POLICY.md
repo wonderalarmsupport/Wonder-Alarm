@@ -26,9 +26,7 @@ Application.
 
 * Your device's Internet Protocol address
 * Device identifiers (such as Advertising ID)
-* The pages of the Application that you visit, the time and date of your visit,
-
-the time spent on those pages
+* The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
 
 * The time spent on the Application
 * Application crash logs, non-fatal error messages and performance analytics
