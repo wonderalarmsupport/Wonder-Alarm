@@ -12,7 +12,7 @@ By downloading or using the Application, you agree to these Terms and Conditions
 
 
 
-###### **License to use the Application**
+### **License to use the Application**
 
 
 
@@ -22,7 +22,7 @@ Subject to your compliance with these Terms, the Service Provider grants you a l
 
 
 
-###### **Intellectual Property**
+### **Intellectual Property**
 
 
 
