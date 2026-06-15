@@ -1,4 +1,3 @@
-```markdown
 # Wonder Alarm
 
 Welcome to **Wonder Alarm**! 
