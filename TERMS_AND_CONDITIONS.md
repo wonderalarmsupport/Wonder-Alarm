@@ -260,3 +260,4 @@ These terms and conditions are effective as of 2026-06-15
 
 \---
 
+[← Back to Home](./)
