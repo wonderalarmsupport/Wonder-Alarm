@@ -477,3 +477,4 @@ This privacy policy is effective as of 2026-06-15
 
 \---
 
+[← Back to Home](./)
